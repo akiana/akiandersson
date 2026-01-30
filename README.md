@@ -1,3 +1,30 @@
-Aki Andersson
----
-Maybe a portfolio page
+# Aki Andersson <img align="right" width="100" height="100" alt="AAA logo" src="https://github.com/user-attachments/assets/63bac2c7-9831-42f3-9b91-a63d511c0db6" />
+
+## ABOUT
+
+Down the winding road I've done many things, one could say I'm multi-creative. My creative side mirrors that I’m a person with a growth mindset. I believe in ever growing, ever learning as a being and creativity for me is essentially interdisciplinary problem solving and collaboration. I’m curious of people and try to increase my filter bubbles in life, digitally and in work. Illustrated already as a tattoo on me, for me team is everything so creating/facilitating good team cultures or collaboration is important. 
+
+**Interest:** I enjoy reading a lot and it may vary between societal structures, ai, quantum physics, tech development, philosophy, psychology, cybersecurity, sexuality, work environments/cultures, just anything that makes me more understanding of the human dynamics and condition. 
+
+**Believe in:** Direct style communication & understanding one anothers strenghts/weaknesses to create the most effective team. That creativity is all about interdisciplinary problem solving and connecting the dots. 
+
+**Worked with:** Augify, ATP Atelier, VR Sverige AB, Isadeco, Life Lab, Eventopia, Gavagai, IKEA, Polestar, etc.etc.etc.
+
+
+## WEBSITE :computer:
+Selection of websites done by, or in collaboration with me. Applied: customization av cms by html/css, digital strategy, graphics, photography and facilitation
+
+## GRAPHICS :fleur_de_lis:
+Stuff for the digital and print i learned to do along the way 
+
+## SIDE QUESTS :shipit:
+Sometimes i end up doing loads of stuff on the side far from what I went to school for
+
+### CONNECT :envelope:
+I love love letters but most of us find more on [LinkedIn](https://www.linkedin.com/in/akiandersson/).
+
+
+<img width="1270" height="743" alt="banner AAA" src="https://github.com/user-attachments/assets/ac2bf25f-908e-49df-ae5b-68004a89c1e0" />
+
+
+
