@@ -13,17 +13,16 @@ Down the winding road I've done many things, one could say I'm multi-creative. M
 
 <br/><br/>
 ### WEBSITE
-Selection of websites done by, or in collaboration with me. Applied: customization av cms by html/css, digital strategy, graphics, photography and facilitation
-Check [Here](https://akiana.github.io/akiandersson/website/).
+Selection of websites done by, or in collaboration with me. Applied: customization of cms by html/css, digital strategy, graphics, photography and facilitation. Check [Here](https://akiana.github.io/akiandersson/website/)
 
 ### GRAPHICS
-Stuff for the digital and print i learned to do along the way 
+Stuff for the digital and print I learned to do along the way. Check [Here](https://akiana.github.io/akiandersson/website/)
 
 ### SIDE QUESTS
-Sometimes i end up doing loads of stuff on the side far from what I went to school for
+Sometimes I end up doing loads of stuff on the side far from what I went to school for. Check [Here](https://akiana.github.io/akiandersson/website/)
 
-### CONNECT :envelope:
-I love love letters but most of us find more on [LinkedIn](https://www.linkedin.com/in/akiandersson/).
+### CONNECT
+I <3 love letters but most of us find more on [LinkedIn](https://www.linkedin.com/in/akiandersson/).
 
 
 <img  width="100%" height="100%" alt="banner AAA" src="https://github.com/user-attachments/assets/ac2bf25f-908e-49df-ae5b-68004a89c1e0" />
