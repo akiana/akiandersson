@@ -1,7 +1,7 @@
 # WEBSITE :computer:
 
 ---
-<img width="1259" height="633" alt="tranan" src="https://github.com/user-attachments/assets/aa4c5177-6456-4b3b-8a97-f0f66efed5b7" />
+<img width="100%" height="100%" alt="tranan" src="https://github.com/user-attachments/assets/aa4c5177-6456-4b3b-8a97-f0f66efed5b7" />
 <br/>
 Setting up a responsive website in Wordpress with customizations in CSS for the iconic Tranan in Stockholm.
 <br/><br/>
@@ -9,7 +9,7 @@ Setting up a responsive website in Wordpress with customizations in CSS for the 
 [tranan.se](https://www.tranan.se/)
 
 ---
-<img width="1897" height="914" alt="grusgrus" src="https://github.com/user-attachments/assets/883b4bf3-5eda-4ea2-b783-999bcc871d3a" />
+<img width="100%" height="100%" alt="grusgrus" src="https://github.com/user-attachments/assets/883b4bf3-5eda-4ea2-b783-999bcc871d3a" />
 <br/>
 Setting up a responsive website in Wordpress with customizations in CSS.
 <br/><br/>
@@ -17,7 +17,7 @@ Setting up a responsive website in Wordpress with customizations in CSS.
 [grusgrusvinbaren.se](https://grusgrusvinbaren.se/)
 
 ---
-<img width="1270" height="700" alt="isadeco" src="https://github.com/user-attachments/assets/837013e1-c669-4583-8575-07c4b8d3726a" />
+<img width="100%" height="100%" alt="isadeco" src="https://github.com/user-attachments/assets/837013e1-c669-4583-8575-07c4b8d3726a" />
 <br/>
 Setting up a responsive website and webshop in Wordpress with total customization in CSS.
 
@@ -29,7 +29,7 @@ Setting up a responsive website and webshop in Wordpress with total customizatio
 [isadeco.se](https://isadeco.se/)
 
 ---
-<img width="1278" height="702" alt="atpatelier" src="https://github.com/user-attachments/assets/14a25aea-49a8-4cf5-babb-9d7da0e82350" />
+<img width="100%" height="100%" alt="atpatelier" src="https://github.com/user-attachments/assets/14a25aea-49a8-4cf5-babb-9d7da0e82350" />
 <br/>
 First coding the front end in HTML/CSS on the Tictail platform. Second recommending and facilitating the transfer of the website/webshop to the Panagora agency.
 
@@ -41,7 +41,7 @@ First coding the front end in HTML/CSS on the Tictail platform. Second recommend
 [atpatelier.com](https://atpatelier.com/)
 
 ---
-<img width="1264" height="793" alt="lifelab" src="https://github.com/user-attachments/assets/2983f702-2add-4bea-983f-152a3958df4c" />
+<img width="100%" height="100%" alt="lifelab" src="https://github.com/user-attachments/assets/2983f702-2add-4bea-983f-152a3958df4c" />
 <br/>
 Setting up the website in Wordpress with customization in CSS.
 
@@ -51,7 +51,7 @@ Setting up the website in Wordpress with customization in CSS.
 [life-lab.se](https://life-lab.se/)
 
 ---
-<img width="1255" height="694" alt="Paraherbs" src="https://github.com/user-attachments/assets/c282ecd0-d7dc-4df1-b2a2-e952a1bfa9b0" />
+<img width="100%" height="100%" alt="Paraherbs" src="https://github.com/user-attachments/assets/c282ecd0-d7dc-4df1-b2a2-e952a1bfa9b0" />
 <br/>
 Setting up a responsive website in Wordpress with customizations in CSS.
 
@@ -64,7 +64,7 @@ Setting up a responsive website in Wordpress with customizations in CSS.
 [paraherbs.com](https://paraherbs.com/)
 
 ---
-<img width="1200" height="676" alt="cbgoils" src="https://github.com/user-attachments/assets/cbd52f87-aed5-40b5-9990-7cf41aa4d16c" />
+<img width="100%" height="100%" alt="cbgoils" src="https://github.com/user-attachments/assets/cbd52f87-aed5-40b5-9990-7cf41aa4d16c" />
 <br/>
 Setting up a responsive website in Wordpress with customizations in CSS.
 
@@ -76,7 +76,7 @@ Setting up a responsive website in Wordpress with customizations in CSS.
 [cbgoils.se](https://cbgoils.se/)
 
 ---
-<img width="1862" height="934" alt="ztockit" src="https://github.com/user-attachments/assets/2894d5b8-6708-480c-8cba-21469766dde1" />
+<img width="100%" height="100%" alt="ztockit" src="https://github.com/user-attachments/assets/2894d5b8-6708-480c-8cba-21469766dde1" />
 <br/>
 Front-end coding and re-designing a website for ZtockIT, a provider of modern inventory system for companies like for example Stureplansgruppen. 
 
@@ -86,8 +86,8 @@ Front-end coding and re-designing a website for ZtockIT, a provider of modern in
 [ztockit.se](https://www.ztockit.se/)
 
 ---
-<img width="1860" height="909" alt="yourwork24-1" src="https://github.com/user-attachments/assets/6f6f5164-a45a-4706-8a9d-baf6267ecb0d" />
-<img width="837" height="652" alt="yourwork24-2" src="https://github.com/user-attachments/assets/195a392b-370d-4c55-802c-c07155b22148" />
+<img width="100%" height="100%" alt="yourwork24-1" src="https://github.com/user-attachments/assets/6f6f5164-a45a-4706-8a9d-baf6267ecb0d" />
+<img width="100%" height="100%" alt="yourwork24-2" src="https://github.com/user-attachments/assets/195a392b-370d-4c55-802c-c07155b22148" />
 <br/>
 Front-end coding and re-designing a website and systems in Umbraco/Visual Studio for YourWork24 in Stockholm. 
 
@@ -97,7 +97,7 @@ Front-end coding and re-designing a website and systems in Umbraco/Visual Studio
 [yourwork24.se](https://yourwork24.se/)
 
 ---
-<img width="1734" height="914" alt="valderas" src="https://github.com/user-attachments/assets/a184c91c-30b5-422f-954f-f0d87d2af0e6" />
+<img width="100%" height="100%" alt="valderas" src="https://github.com/user-attachments/assets/a184c91c-30b5-422f-954f-f0d87d2af0e6" />
 <br/>
 Front-end coding and re-designing a website in Umbraco/Visual Studio for Valderas in Stockholm.
 
@@ -107,7 +107,7 @@ Front-end coding and re-designing a website in Umbraco/Visual Studio for Valdera
 [valderas.se](https://valderas.se/)
 
 ---
-<img width="1268" height="638" alt="falafelbaren" src="https://github.com/user-attachments/assets/57e78ebf-9ebf-4aa9-b1bd-ade462b91784" />
+<img width="100%" height="100%" alt="falafelbaren" src="https://github.com/user-attachments/assets/57e78ebf-9ebf-4aa9-b1bd-ade462b91784" />
 <br/>
 Setting up a responsive website in Wordpress.
 <br/><br/>
