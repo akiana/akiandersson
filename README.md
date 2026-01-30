@@ -1,4 +1,4 @@
-# Hello <img align="right" width="100" height="100" alt="AAA logo" src="https://github.com/user-attachments/assets/63bac2c7-9831-42f3-9b91-a63d511c0db6" />
+# Hello stranger <img align="right" width="100" height="100" alt="AAA logo" src="https://github.com/user-attachments/assets/63bac2c7-9831-42f3-9b91-a63d511c0db6" />
 <br/><br/>
 
 ## ABOUT
@@ -26,7 +26,7 @@ Sometimes i end up doing loads of stuff on the side far from what I went to scho
 I love love letters but most of us find more on [LinkedIn](https://www.linkedin.com/in/akiandersson/).
 
 
-<img width="1270" height="743" alt="banner AAA" src="https://github.com/user-attachments/assets/ac2bf25f-908e-49df-ae5b-68004a89c1e0" />
+<img  width="100%" height="100%" alt="banner AAA" src="https://github.com/user-attachments/assets/ac2bf25f-908e-49df-ae5b-68004a89c1e0" />
 
 
 
