@@ -13,6 +13,7 @@ Down the winding road I've done many things, one could say I'm multi-creative. M
 
 ## WEBSITE :computer:
 Selection of websites done by, or in collaboration with me. Applied: customization av cms by html/css, digital strategy, graphics, photography and facilitation
+Check [Here](https://akiana.github.io/akiandersson/website/).
 
 ## GRAPHICS :fleur_de_lis:
 Stuff for the digital and print i learned to do along the way 
