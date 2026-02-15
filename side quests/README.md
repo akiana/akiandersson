@@ -170,7 +170,7 @@ Styling by Cecilia af Petersens. Editing and photography by me.
 <br/><br/>
 
 <img width="33%" height="33%" alt="Corsetière Viola Lahger" src="https://github.com/user-attachments/assets/d2030b5c-cf87-484a-a0e2-e948c8ca3359" />
-<img width="33%" height="33%" alt="Corsetière Viola Lahger 2" src="https://github.com/user-attachments/assets/12de8ae0-b5ea-49cc-aca9-b0d319c40953" />
+<img width="33%" height="33%" alt="Corsetière Viola Lahger 2" src="https://github.com/user-attachments/assets/0e63e144-43d0-438a-bc34-aae86060acc9" />
 <img width="33%" height="33%" alt="Corsetière Viola Lahger 3" src="https://github.com/user-attachments/assets/844cc7d8-fb43-4c55-aef4-b31adb4b7336" />
 <img width="33%" height="33%" alt="Corsetière Viola Lahger 4" src="https://github.com/user-attachments/assets/0b4fc558-51a9-497f-b5f8-b1666e698bcd" />
 <br/>
@@ -178,8 +178,50 @@ Idea, styling, make up & hair by me for Corsetière Viola Lahger.
 Photography by Robert Mosbach.
 <br/><br/>
 
+<img width="33%" height="33%" alt="lovalot" src="https://github.com/user-attachments/assets/8d8873fe-87f6-4c97-85d6-72243090ae01" />
+<img width="33%" height="33%" alt="fan" src="https://github.com/user-attachments/assets/0683f000-9efc-49b1-8d23-ae14bb0ce3df" />
+<img width="33%" height="33%" alt="afrika bam bam nate" src="https://github.com/user-attachments/assets/f71355ab-a559-4d45-83cb-78f82c5e292d" />
+<img width="33%" height="33%" alt="lovalot 3" src="https://github.com/user-attachments/assets/b3f53425-9eae-42f6-8f2b-502fa45a37bf" />
+<img width="33%" height="33%" alt="lovalot 2" src="https://github.com/user-attachments/assets/a79c32a6-6382-480f-afba-de29d91e5ed0" />
+<img width="33%" height="33%" alt="isadeco extra" src="https://github.com/user-attachments/assets/eb657301-1b37-4cf1-942a-190947e7e0d6" />
+<br/>
+Through the years I've set up photo shoots, finding the photographers, models, places, taking care of everyone, shitloads of makeup/hair, assisted with styling, photography to actually starting taking pictures to eventually becoming a muse myself.
+I've worked with several photographers like Fan Wu, Robert Mosbach, Jonas Kosunen, John Scarisbrick, Cato Lein and more.
+<br/><br/>
+
 ---
 <br/>
 
 > [!NOTE]
-> ....and many, maaaany more, but by now most are lost in the sea of internet.
+> Of course I used to love Insta posting @akiana
+<br/>
+<img width="33%" height="33%" alt="insta" src="https://github.com/user-attachments/assets/a8d123a0-3e75-47f2-ad78-ad236f4a6d1a" />
+<img width="33%" height="33%" alt="insta 2" src="https://github.com/user-attachments/assets/a2e1bba1-b465-4d53-b27f-0be63d46ba4f" />
+<img width="33%" height="33%" alt="insta 3" src="https://github.com/user-attachments/assets/73eb790b-7c16-4033-9d71-1404010b5712" />
+<img width="33%" height="33%" alt="insta 4" src="https://github.com/user-attachments/assets/bb2ae199-ef58-42a8-bd52-1008c5f20e85" />
+<img width="33%" height="33%" alt="insta 5" src="https://github.com/user-attachments/assets/e16947d9-ceaf-4d61-99a4-82f3efd3b259" />
+<img width="33%" height="33%" alt="insta 6" src="https://github.com/user-attachments/assets/dcf8e2af-253f-4c6e-82ee-30b3c8ef7eb4" />
+<img width="33%" height="33%" alt="insta 7" src="https://github.com/user-attachments/assets/365836af-a8c4-4252-bd37-9b0f3694001c" />
+<img width="33%" height="33%" alt="insta 8" src="https://github.com/user-attachments/assets/71a0304c-a7d5-45cc-a279-7df63e5b0934" />
+<img width="33%" height="33%" alt="insta 9" src="https://github.com/user-attachments/assets/567b1557-cfb0-4915-a327-ff501f534a35" />
+<img width="33%" height="33%" alt="insta 10" src="https://github.com/user-attachments/assets/1d02c671-b5da-44dd-aaf6-3ba2f04becf8" />
+<img width="33%" height="33%" alt="insta 11" src="https://github.com/user-attachments/assets/31f03682-47ea-43b7-8077-45406863a35a" />
+<img width="33%" height="33%" alt="insta 12" src="https://github.com/user-attachments/assets/f7d73cc9-2195-4c6f-985b-d7a938dde409" />
+<img width="33%" height="33%" alt="insta 13" src="https://github.com/user-attachments/assets/f591cf6d-25a0-4435-b2dc-5f818ed87264" />
+<img width="33%" height="33%" alt="insta 14" src="https://github.com/user-attachments/assets/a709380b-bcb3-4f7f-a6c5-26dac3d669d4" />
+<img width="33%" height="33%" alt="insta 15" src="https://github.com/user-attachments/assets/fb7c63b7-25cc-450f-8f95-54bfa56fa79b" />
+<img width="33%" height="33%" alt="insta 16" src="https://github.com/user-attachments/assets/faec0449-e3a0-41c8-a6c4-63ddf185fd8d" />
+<img width="33%" height="33%" alt="insta 17" src="https://github.com/user-attachments/assets/c3e22818-c904-4d4a-9d49-cba2673a6071" />
+<img width="33%" height="33%" alt="insta 18" src="https://github.com/user-attachments/assets/4e62ccc1-e13f-4aeb-a4cb-bac1a2fc8dd1" />
+<img width="33%" height="33%" alt="insta 19" src="https://github.com/user-attachments/assets/25587757-a64b-4800-b901-189b0b1a47ec" />
+<img width="33%" height="33%" alt="insta 20" src="https://github.com/user-attachments/assets/b6c80f24-a268-4003-ae0b-508f3f3d97f7" />
+<img width="33%" height="33%" alt="insta 21" src="https://github.com/user-attachments/assets/9a21574f-81e4-4b65-a490-1a2b7f30ac9a" />
+<img width="33%" height="33%" alt="insta 22" src="https://github.com/user-attachments/assets/81559fc5-7891-4bc0-8ec9-228c08cf975d" />
+<img width="33%" height="33%" alt="insta 23" src="https://github.com/user-attachments/assets/4c64d648-045c-4e0c-a4ab-8e8ddc80bc4c" />
+<img width="33%" height="33%" alt="insta 24" src="https://github.com/user-attachments/assets/2434fe2c-a949-466f-8131-0d3f7788c77e" />
+<img width="33%" height="33%" alt="insta 25" src="https://github.com/user-attachments/assets/744aeb6f-bda7-4a22-8a52-d9ff3ab46d37" />
+<img width="33%" height="33%" alt="insta 26" src="https://github.com/user-attachments/assets/ce3efdd3-930d-4b0a-bca9-1ed57aa08821" />
+<img width="33%" height="33%" alt="insta 27" src="https://github.com/user-attachments/assets/13f8249d-4e93-42ca-87ff-eb82da559187" />
+<img width="33%" height="33%" alt="insta 28" src="https://github.com/user-attachments/assets/e8c1761a-a53c-4c2e-8b70-515d81b9916f" />
+<img width="33%" height="33%" alt="nude study" src="https://github.com/user-attachments/assets/148285a4-3007-464e-b7b8-b6bae16e99e8" />
+
