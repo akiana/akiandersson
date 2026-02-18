@@ -22,7 +22,7 @@ Selection of events in tech, fashion, ed and nightlife. Check [Here](https://aki
 Stuff for the digital and print I did along the way. Check [Here](https://akiana.github.io/akiandersson/graphics/)
 
 ### SIDE QUESTS
-Sometimes I end up doing loads of stuff on the side far from what I went to school for. Check [Here](https://akiana.github.io/akiandersson/sidequests/)
+Sometimes I end up doing loads of stuff on the side far from what I went to school for. Check [Here](https://akiana.github.io/akiandersson/side%20quests/)
 
 ### CONNECT
 I <3 love letters but most of us find more on [LinkedIn](https://www.linkedin.com/in/akiandersson/).
