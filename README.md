@@ -11,6 +11,8 @@ Down the winding road I've done many things, one could say I'm multi-creative. M
 
 **Worked with:** Augify, ATP Atelier, VR Sverige AB, Isadeco, Life Lab, Eventopia, Gavagai, IKEA, Polestar, etc.etc.etc.
 
+**Doing now:** Aspiring writer with focus on Sci-Fi and poetry. Will maybe add a section on this to showcase in the future, as it says on my Linked In; *"And if I’m going to feed the algos, I’ll feed them protopian visions."*
+
 <br/><br/>
 ### WEBSITES
 Selection of websites done by, or in collaboration with me. Applied: customization of cms by html/css, digital strategy, graphics, photography and facilitation. Check [Here](https://akiana.github.io/akiandersson/website/)
