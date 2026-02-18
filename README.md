@@ -12,7 +12,7 @@ Down the winding road I've done many things, one could say I'm multi-creative. M
 **Worked with:** Augify, ATP Atelier, VR Sverige AB, Isadeco, Life Lab, Eventopia, Gavagai, IKEA, Polestar, etc.etc.etc.
 
 <br/><br/>
-### WEBSITE
+### WEBSITES
 Selection of websites done by, or in collaboration with me. Applied: customization of cms by html/css, digital strategy, graphics, photography and facilitation. Check [Here](https://akiana.github.io/akiandersson/website/)
 
 ### EVENTS
