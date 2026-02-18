@@ -191,9 +191,8 @@ I've worked with several photographers like Fan Wu, Robert Mosbach, Jonas Kosune
 
 ---
 <br/>
-
 > [!NOTE]
-> Of course I used to love Insta posting @akiana
+> Of course I used to love Insta posting [@akiana](https://www.instagram.com/akiana/).
 <br/>
 <img width="33%" height="33%" alt="insta" src="https://github.com/user-attachments/assets/a8d123a0-3e75-47f2-ad78-ad236f4a6d1a" />
 <img width="33%" height="33%" alt="insta 2" src="https://github.com/user-attachments/assets/a2e1bba1-b465-4d53-b27f-0be63d46ba4f" />
